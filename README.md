@@ -1,5 +1,5 @@
 # Centertoc.com_DevTool
-Decision support system for product manjagers, project managers, system analysts and IT architects to distinguish detailed user requirements from weak requirements
+AI driven decision support system for product manjagers, project managers, system analysts and IT architects to distinguish detailed user requirements from weak requirements
     Copyright (C) 2023  Askar Aituov
 
     This program is free software: you can redistribute it and/or modify
